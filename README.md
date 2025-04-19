@@ -29,6 +29,7 @@ I'm a recently graduated software developer with strong motivation to keep learn
 - Clean and functional UI/UX design
 - Automation and DevOps
 - Exploring new technologies and frameworks
+- AI 
 
 ## 📫 Get in touch
 
