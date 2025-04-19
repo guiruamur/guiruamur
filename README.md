@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name] – Junior Developer | DAM Graduate
+# 👋 Hi there! I'm Guillermo – Junior Developer 
 
 I'm a recently graduated software developer with strong motivation to keep learning, building, and growing in the tech world. I’m especially interested in mobile development and clean, efficient code that solves real problems.
 
@@ -32,8 +32,8 @@ I'm a recently graduated software developer with strong motivation to keep learn
 
 ## 📫 Get in touch
 
-- [LinkedIn](https://www.linkedin.com/in/your-username/)  
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](www.linkedin.com/in/guillermo-ruano-muriedas-74253830a)  
+- Email - guiruamur@gmail.com
 
 ---
 
